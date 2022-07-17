@@ -6,7 +6,13 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "map": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "type_traits": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp"
     },
     "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: LLVM, IndentWidth: 4, SpacesBeforeTrailingComments: 4, UseTab: Never, SortIncludes: false, MaxEmptyLinesToKeep: 2, AllowShortFunctionsOnASingleLine: None, ColumnLimit: 200, PointerAlignment: Left, BreakBeforeBraces: Attach, IndentWidth: 4, SpaceBeforeParens: ControlStatements}"
 }
