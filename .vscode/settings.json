@@ -57,7 +57,9 @@
         "tuple": "cpp",
         "typeinfo": "cpp",
         "unordered_map": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "deque": "cpp",
+        "queue": "cpp"
     },
     "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: LLVM, IndentWidth: 4, SpacesBeforeTrailingComments: 4, UseTab: Never, SortIncludes: false, MaxEmptyLinesToKeep: 2, AllowShortFunctionsOnASingleLine: None, ColumnLimit: 200, PointerAlignment: Left, BreakBeforeBraces: Attach, IndentWidth: 4, SpaceBeforeParens: ControlStatements}"
 }
